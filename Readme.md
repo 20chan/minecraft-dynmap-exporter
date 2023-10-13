@@ -3,3 +3,8 @@
 inspired from [Joshi425/minecraft-exporter](https://github.com/Joshi425/minecraft-exporter), which is not working for me.
 
 Prometheus exporter for Minecraft servers with Dynmap plugin, using RCON.
+
+## example
+
+for grafana:
+![grafana dashboard example](./imgs/ex_grafana.png)
